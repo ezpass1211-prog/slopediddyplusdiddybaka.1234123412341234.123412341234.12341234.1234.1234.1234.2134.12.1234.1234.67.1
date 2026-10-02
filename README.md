@@ -1,6 +1,6 @@
 # Slope Plus Web  
 
-## Play at [lonfro.github.io/SlopePlusWeb](https://lonfro.github.io/SlopePlusWeb/)  
+## Play at [[lonfro.github.io/SlopePlusWeb](https://ezpass1211-prog.github.io/slopediddyplusdiddybaka.1234123412341234.123412341234.12341234.1234.1234.1234.2134.12.1234.1234.67.1/)](https://ezpass1211-prog.github.io/slopediddyplusdiddybaka.1234123412341234.123412341234.12341234.1234.1234.1234.2134.12.1234.1234.67.1//)  
 
 ### Features  
 
